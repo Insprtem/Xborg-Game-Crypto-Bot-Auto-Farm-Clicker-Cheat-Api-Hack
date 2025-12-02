@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\13\\Xborg\\Borg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|Xborg-Exp\\Form11\\Form1.csproj|d:\\githubnew\\13\\xborg\\borg\\xborg-exp\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{590ED63D-6690-4D70-B101-D1AE3D4C2A20}|Xborg-Exp\\Form11\\Form1.csproj|solutionrelative:xborg-exp\\form11\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1421CAEB-71E2-4357-A9C2-17237DF4F8AD}|Xborg-Exp\\Xborg.Db\\Xborg.Db.csproj|d:\\githubnew\\13\\xborg\\borg\\xborg-exp\\xborg.db\\xborg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1421CAEB-71E2-4357-A9C2-17237DF4F8AD}|Xborg-Exp\\Xborg.Db\\Xborg.Db.csproj|solutionrelative:xborg-exp\\xborg.db\\xborg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\13\\Xborg\\Borg\\Xborg-Exp\\Form11\\Form1.cs",
+              "RelativeDocumentMoniker": "Xborg-Exp\\Form11\\Form1.cs",
+              "ToolTip": "D:\\GithubNew\\13\\Xborg\\Borg\\Xborg-Exp\\Form11\\Form1.cs [Design]",
+              "RelativeToolTip": "Xborg-Exp\\Form11\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:34:56.77Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Xborg.cs",
+              "DocumentMoniker": "D:\\GithubNew\\13\\Xborg\\Borg\\Xborg-Exp\\Xborg.Db\\Xborg.cs",
+              "RelativeDocumentMoniker": "Xborg-Exp\\Xborg.Db\\Xborg.cs",
+              "ToolTip": "D:\\GithubNew\\13\\Xborg\\Borg\\Xborg-Exp\\Xborg.Db\\Xborg.cs",
+              "RelativeToolTip": "Xborg-Exp\\Xborg.Db\\Xborg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:34:55.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
