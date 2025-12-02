@@ -1,0 +1,2 @@
+D:\GithubNew\13\Xborg\Borg\Xborg-Exp\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\13\Xborg\Borg\Xborg-Exp\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
